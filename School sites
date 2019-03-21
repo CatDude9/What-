@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head style="background-color:DarkRed;">
+<title style="color:white;"><h1 style="font-size:300%;">School Website Hub</h1></title>
+
+<h1 style="font-size:210%;"><b><center><p style="color:white;">School Website Hub</h1>
+</head>
+<body style="background-color:DarkRed;">
+<center><img src="https://www.uofdjesuit.org/uploaded/Communications/Athletics/Web_Icons/UofD-Interlocking-2-Color-2017---darker.png" width="200" height="160"></h1></center>
+<center><p style="color:white;">Websites</p></center>
+
+<center><a href="https://uofdjesuit.myschoolapp.com/app/student#login">
+  <img src="https://www.uofdjesuit.org/uploaded/Communications/Athletics/Web_Icons/UofD-Interlocking-2-Color-2017---darker.png" alt="HTML tutorial" style="width:120px;height:100px;border:0;"></center>
+</a>
+
+<center><a
+href="https://print.uofdjesuit.org/app?service=page/Home">
+  <img src="https://purepng.com/public/uploads/large/purepng.com-printerprinterhuman-readablegraphicstext-on-papercopyist-1701528367524rq6r0.png" alt="HTML tutorial" alt="HTML tutorial" style="width:150px;height:150px;border:0;"></center>
+</a>
+
+<center><a href="https://mail.google.com/mail/u/0/#inbox">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="HTML tutorial" style="width:120px;height:100px;border:0;"></center>
+</a>
+
+
+      <center><a 
+href="https://www.google.com">
+  <img src="http://pngimg.com/uploads/google/google_PNG19635.png" alt="HTML tutorial" style="width:150px;height:150px;border:0;"></center>
+</a></center>
+
+</body>
+<html
+  
